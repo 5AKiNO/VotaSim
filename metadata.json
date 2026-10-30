@@ -1,0 +1,6 @@
+{
+  "name": "Simulador de Votación",
+  "description": "Un simulador interactivo de voto de urna electrónica como se describe en el código HTML, adaptado para tabletas y teléfonos celulares en modo horizontal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
